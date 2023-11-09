@@ -1,0 +1,5 @@
+pandas == 2.1.1
+seaborn == 0.13.0
+pyyaml == 6.0.1
+nltk == 3.8.1
+svgling == 0.4.0
