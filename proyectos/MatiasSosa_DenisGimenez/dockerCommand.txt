@@ -1,0 +1,1 @@
+docker run -m 8g --cpus 5.0 -p 8888:8888 -v .:/home/sage/notebooks sagemath/sagemath:latest sage-jupyter
