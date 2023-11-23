@@ -1,0 +1,41 @@
+# Instrucciones de Compilación y Ejecución
+
+Este documento proporciona instrucciones para compilar y ejecutar el proyecto. Asegúrate de seguir cada paso cuidadosamente.
+
+## Módulos del Proyecto
+
+### Módulo 1: Cargar Datos (`modulo1.py`)
+
+Este módulo se encarga de cargar los datos desde archivos JSON.
+
+### Módulo 2: Similarity Score (`modulo2.py`)
+
+Calcula la similitud entre conjuntos de productos utilizando el coeficiente de Jaccard.
+
+### Módulo 3: Rating Score (`modulo3.py`)
+
+Calcula el promedio de rating por producto a partir de los datos de reviews.
+
+### Módulo 4: Sistema de Control Difuso (`modulo4.py`)
+
+Define un sistema de control difuso con variables de entrada y salida, y reglas difusas. Además, aplica inferencia difusa.
+
+### Módulo 5: Defusificador (`modulo5.py`)
+
+Defusifica el valor de inferencia para obtener un nivel de recomendación.
+
+## Instrucciones de Compilación y Ejecución
+
+Sigue estos pasos para compilar y ejecutar el proyecto:
+
+1. Clona el repositorio en tu máquina local:
+
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+   cd tu-repositorio
+
+Instala las dependencias
+pip install numpy skfuzzy
+
+Ejecuta el programa principal:
+python main.py

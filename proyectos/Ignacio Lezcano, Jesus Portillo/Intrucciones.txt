@@ -1,0 +1,18 @@
+## Instrucciones de Compilación y Ejecución
+
+Sigue estos pasos para compilar y ejecutar el proyecto:
+
+1. Clona el repositorio en tu máquina local:
+
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+   cd tu-repositorio
+
+2. Instala las dependencias:
+pip install numpy skfuzzy
+
+3. Ejecuta el programa principal:
+python main.py
+
+
+
